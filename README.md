@@ -68,6 +68,7 @@ Our awesome list of resources for everything **WEB DEVELOPMENT** 😎🔥.
 ### Paid Courses
 
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/nodejs-express-mongodb-bootcamp)
+- [Node.js API Masterclass With Express & MongoDB](https://udemy.com/course/nodejs-api-masterclass/)
 
 ---
 
