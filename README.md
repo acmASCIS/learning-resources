@@ -51,10 +51,15 @@ Our awesome list of resources for everything **WEB DEVELOPMENT** 😎🔥.
 ### Free Videos
 
 - [React Tutorials | The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+- [ReactJS Tutorial for Beginners | Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [React Hooks | Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A)
+- [React Hooks (Arabic)| Medhat Dawoud](https://www.youtube.com/playlist?list=PLANjs1H0YEnRE78sLw6vd_4LXoPg5enIM)
+
 
 ### Paid Courses
 
-- [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery)
+- [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/)
+- [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/complete-react-developer-zero-to-mastery)
 
 ---
 
@@ -67,8 +72,9 @@ Our awesome list of resources for everything **WEB DEVELOPMENT** 😎🔥.
 
 ### Paid Courses
 
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/nodejs-express-mongodb-bootcamp)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/nodejs-express-mongodb-bootcamp)
 - [Node.js API Masterclass With Express & MongoDB](https://udemy.com/course/nodejs-api-masterclass/)
+- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 ---
 
@@ -76,8 +82,9 @@ Our awesome list of resources for everything **WEB DEVELOPMENT** 😎🔥.
 
 ### Paid Courses
 
-- [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
-- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/)
+- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
+- [MERN Stack React Node Ecommerce from Scratch to Deployment | Ryan Dhungel](https://www.udemy.com/course/react-node-ecommerce/)
+- [MERN eCommerce From Scratch | Brad Traversy](https://www.udemy.com/course/mern-ecommerce/)
 
 ---
 
